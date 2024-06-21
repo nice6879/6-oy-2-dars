@@ -1,0 +1,7 @@
+1)python -m venv env -> env yaratish
+2)env/scripts/activatev ->envni ishlatish
+3)pip install django -> djangoni ornatish
+4)django-admin startproject Name .  -> loyiha yaratish
+5) python manage.py runserver -->loyihani yurgazish
+6) python manage.py migrate -> db yaratish
+7) python manage.py createsuperuser 
